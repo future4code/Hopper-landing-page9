@@ -59,4 +59,61 @@ a {
 
 /* SECTION */
 
+.section-input {
+    width: 100vw;
+    height: 40vh;
+    background-color: #F2CDA0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
+.text-action {
+    margin-left: 140px;
+}
+
+
+.input-box {
+    margin-right: 140px;
+    width: 260px;
+    height: 200px;
+    background-color: #F2AC57;
+    border-radius: 33px;
+}
+
+.input-box h4 {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.input-cpf {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.input-cpf input {
+    width: 200px;
+    height: 26px;
+    border-radius: 12px;
+    border: none;
+    outline: 0;
+}
+
+.btn-continuar {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+
+.btn-continuar button {
+    width: 200px;
+    height: 30px;
+    border-radius: 14px;
+    border: none;
+}
+
+.btn-continuar button:hover {
+    background-color: #F29F80;
+}
