@@ -19,7 +19,6 @@ a {
     width: 100vw;
     height: 60px;
     display: flex;
-    position: sticky;
     background-color: #F2F2F2;
     justify-content: space-between;
     align-items: center;
