@@ -19,6 +19,7 @@ a {
     width: 100vw;
     height: 60px;
     display: flex;
+    position: sticky;
     background-color: #F2F2F2;
     justify-content: space-between;
     align-items: center;
@@ -62,7 +63,7 @@ a {
 .section-input {
     width: 100vw;
     height: 40vh;
-    background-color: #F2CDA0;
+    background-color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -116,4 +117,47 @@ a {
 
 .btn-continuar button:hover {
     background-color: #F29F80;
+}
+
+/*SECTION 2 - MIDDLE*/
+
+.section-middle {
+    width: 100vw;
+    height: 40vh;
+    background-color:#f1c8b8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/*FOOTER*/
+
+.footer-paragraph{
+    font-weight: bolder;
+    margin-left: 140px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.insta-logo{
+    width: 49px;
+    height: 49px;
+    border-radius: 13px;
+    margin-left: 140px;
+    margin-bottom: 20px;
+}
+
+.face-logo{
+    width: 49px;
+    height: 49px;
+    border-radius: 13px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    background-color: #F29F80;
+    height: 150px;
 }
