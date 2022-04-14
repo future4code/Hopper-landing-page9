@@ -19,7 +19,6 @@ a {
     width: 100vw;
     height: 60px;
     display: flex;
-    position: sticky;
     background-color: #F2F2F2;
     justify-content: space-between;
     align-items: center;
@@ -119,7 +118,7 @@ a {
     background-color: #F29F80;
 }
 
-/*SECTION 2 - MIDDLE*/
+/* SECTION 2 - MIDDLE */
 
 .section-middle {
     width: 100vw;
@@ -130,7 +129,7 @@ a {
     align-items: center;
 }
 
-/*FOOTER*/
+/* FOOTER */
 
 .footer-paragraph{
     font-weight: bolder;
@@ -161,3 +160,5 @@ a {
     background-color: #F29F80;
     height: 150px;
 }
+
+/**/
