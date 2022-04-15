@@ -129,6 +129,11 @@ a {
     align-items: center;
 }
 
+.card-image {
+    width: 60vh;
+    margin-right: 140px;
+}
+
 /* FOOTER */
 
 .footer-paragraph{
